@@ -1,9 +1,9 @@
 // -------------------------------------------------------------------------------
 // Descrição: Um programa em Pascal que determina se um determinado número, 
-//lido do teclado, é par
+// lido do teclado, é par
 // -------------------------------------------------------------------------------
-//Autor			: Fernando Gomes
-//Data			: 19/08/2021
+// Autor			: Fernando Gomes
+// Data			: 19/08/2021
 // -------------------------------------------------------------------------------
 
 
