@@ -9,9 +9,12 @@
 // -------------------------------------------------------------------------------
 
 Program Mes_do_ano ;
+// Secção de Declaração das variáveis 
 var
 	op: integer;
+	
 Begin
+	//Pede ao usuario para digitar o numero
 	write('Digite um numero entre 1-12: ');
 	readln(op);
 	
