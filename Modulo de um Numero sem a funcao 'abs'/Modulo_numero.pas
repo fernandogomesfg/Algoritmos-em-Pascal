@@ -17,9 +17,12 @@ Program Modulo_numero ;
 var
 	x, modulo: real;
 Begin
+	//Pede ao usuario que insira um numero
 	write('Digite o número: ');
+	//Le o numero
 	readln(x);
 	
+	//Mostra o modulo do numero digiyado
 	if (x > 0) then
 		write('O módulo de ',x:5:2, ' e ',x:5:2)
 	else
